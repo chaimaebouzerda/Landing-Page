@@ -13,7 +13,7 @@ body{
 }
 
 #showcase{
-  background-image:url('../images/img.JPG');
+  background-image:img src="images/img.jpeg" alt=" group picture" title="KEDGE BS";
   background-size:cover;
   background-position:center;
   height:100vh;
